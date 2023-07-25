@@ -23,22 +23,9 @@ Welcome to the Italian Pizza Ordering App! This project is a web application bui
 
 6. **Navbar Component**: The Navbar component offers easy navigation and access to various sections of the app, ensuring seamless user interaction.
 
-## Getting Started
 
 
 Happy pizza ordering! 🍕
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
