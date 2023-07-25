@@ -31,7 +31,9 @@ Happy pizza ordering! 🍕
 
 <img width="1436" alt="Screenshot 2023-07-25 at 4 30 22 PM" src="https://github.com/MagdaSlifierz/orderfood/assets/49603115/4230844c-2ae6-479e-9020-0e8c46be54af">
 
-<img width="646" alt="Screenshot 2023-07-25 at 4 31 20 PM" src="https://github.com/MagdaSlifierz/orderfood/assets/49603115/661c0050-a257-492c-b4c8-1f9b2921bc97">
+<img width="1440" alt="Screenshot 2023-07-25 at 4 30 54 PM" src="https://github.com/MagdaSlifierz/orderfood/assets/49603115/8e567d6c-6cb7-4828-9f11-7c93eeb579a1">
+
+<img width="1397" alt="Screenshot 2023-07-25 at 4 32 07 PM" src="https://github.com/MagdaSlifierz/orderfood/assets/49603115/3a115e42-8075-46e6-8e16-b4e2be74f494">
 
 <img width="570" alt="Screenshot 2023-07-25 at 4 32 40 PM" src="https://github.com/MagdaSlifierz/orderfood/assets/49603115/ccf7f08a-69f1-45f9-a595-801a07e3ae78">
 
